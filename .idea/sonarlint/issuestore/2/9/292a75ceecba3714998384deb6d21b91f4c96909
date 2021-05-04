@@ -1,0 +1,31 @@
+
+k
+java:S1192@"NDefine a constant instead of duplicating this literal "Vaccine Alert" 6 times.(¬öÏ8“›“/
+X	java:S125I"<This block of commented-out lines of code should be removed.(ÊÂÉÀ8“›“/
+y
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Áì’8“›“/
+w
+java:S1192@"ZDefine a constant instead of duplicating this literal "shwetabh.srijan@gmail.com" 7 times.(¬öÏ8“›“/
+\
+java:S4719":Replace Charset.forName() call with StandardCharsets.UTF_8(¨Ê Çşÿÿÿÿ8“›“/
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(³¨óØıÿÿÿÿ8“›“/
+s
+java:S3008"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êı¢‰øÿÿÿÿ8“›“/
+\
+java:S1854N":Remove this useless assignment to local variable "mapper".(ĞÏáúÿÿÿÿ8“›“/
+H
+java:S1481!",Remove this unused "zeroHit" local variable.(üúŠ8“›“/
+L
+java:S3740""/Provide the parametrized type for this generic.(Äú¥8“›“/
+]
+java:S1854/";Remove this useless assignment to local variable "zeroHit".(óÀØÃúÿÿÿÿ8“›“/
+T
+java:S26296"7Use the built-in formatting to construct this argument.(úº÷¦8å“—“/
+]	java:S125O"<This block of commented-out lines of code should be removed.(Ï­Âıÿÿÿÿ8“›“/
+M
+java:S1481N"+Remove this unused "mapper" local variable.(ĞÏáúÿÿÿÿ8“›“/
+K
+java:S3740&"/Provide the parametrized type for this generic.(°¿–.8“›“/
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8Æƒä‘“/
+]	java:S125"<This block of commented-out lines of code should be removed.(®•»òùÿÿÿÿ8Æƒä‘“/
